@@ -11,3 +11,11 @@
 * 키워드로 사진을 검색할 수 있어야 합니다.
 * 검색 후 동작은 위의 기능1, 2와 동일합니다.
 
+
+<img src="https://user-images.githubusercontent.com/81798207/113717247-67259600-9726-11eb-8cd6-d955edab6afa.png"  width="700">
+
+
+<img src="https://user-images.githubusercontent.com/81798207/113717271-6e4ca400-9726-11eb-9199-de15774df1ab.png"  width="700">
+
+
+<img src="https://user-images.githubusercontent.com/81798207/113717297-73115800-9726-11eb-8201-47a4131abab4.png"  width="700">
